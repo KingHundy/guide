@@ -117,7 +117,7 @@ const input = new TextInputBuilder()
 	// set a placeholder string to prompt the user
 	.setPlaceholder('Enter some text!')
 	// set a default value to pre-fill the input
-	.setValue('Default')
+	.setValue('Default value')
 	 // require a value in this input field
 	.setRequired(true);
 ```
